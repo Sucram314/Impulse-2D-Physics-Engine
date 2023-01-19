@@ -1,4 +1,4 @@
-#python -m cProfile -s tottime "C:\Users\marcu\OneDrive\Desktop\Python Scripts\Bigger Projects\Impulse 2D Physics\THE FINAL ORIENTED IMPULSE 2D PHYSICS.pyw"
+#v0.1
 
 DEBUGMODE = False
 
